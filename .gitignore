@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+models/
+*.mp3
+*.gguf
